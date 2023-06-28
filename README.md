@@ -1,7 +1,7 @@
 
 # food-order-react-with-firebase
 A simple and dynamic food ordering application that seamlessly integrates with Firebase database. This app allows users to browse a
-wide range of delicious food options, add items to their cart, and place orders securely.
+wide range of delicious food options, add items to their cart, and place orders securely.Also includes the validation of details in order form.
 
 live site:
 ![Screenshot (24)](https://github.com/shikharpaudel/food-order-react-with-firebase/assets/75170007/8ab185a6-80eb-4e78-9de3-17eae7642ed9)
